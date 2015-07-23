@@ -1,8 +1,14 @@
 .sticky {
+  position: fixed;
   background-color: #DAA520;
   width: 100%
 }
 
+.flexHeader {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-end;
+ }
 .flexContainer {
     display: flex;
     flex-flow: row wrap;
