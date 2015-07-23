@@ -2,14 +2,8 @@
   position: fixed;
   background-color: #DAA520;
   width: 100%
-  top: 0px;
   }
 
-.flexHeader {
-    float: right;
-    display: flex;
-    flex-flow: row wrap;
- }
 .flexContainer {
     display: flex;
     flex-flow: row wrap;
