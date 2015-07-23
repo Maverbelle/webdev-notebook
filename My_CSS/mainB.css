@@ -1,8 +1,7 @@
-.stick {
-  background-image: url(https://en.wikipedia.org/wiki/Ocean#/media/File:Clouds_over_the_Atlantic_Ocean.jpg);
+.sticky {
+  background-color: #DAA520;
   width: 100%
 }
-
 
 .flexContainer {
     display: flex;
@@ -10,15 +9,6 @@
     justify-content: space-around;
  }
 
- .flexFooter {
-     display: flex;
-     flex-direction: row
-     flex-wrap: wrap;
-     justify-content: center;
-   }
-
-footer {
-  text-align: center;
 }
 article{
   background-color: ivory;
@@ -30,18 +20,9 @@ article{
   width:20rem;
 }
 
-.redText{
-  color:red;
-}
-#blueText{
-  color:blue;
-}
-#turqText{
-  color:#00c5cd;
-}
-#greenText{
-  color:green;
-}
-#yellowText{
-  color:#DFFF00;
-}
+.flexFooter {
+    display: flex;
+    flex-direction: row
+    flex-wrap: wrap;
+    justify-content: center;
+  }
