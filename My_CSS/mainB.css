@@ -4,6 +4,12 @@
   width: 100%
   }
 
+.flexHeader {
+  display: flex;
+  
+}
+
+
 .flexContainer {
     display: flex;
     flex-flow: row wrap;
