@@ -1,10 +1,10 @@
 .flexContainer {
     display: flex;
-    flex-direction: row
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
  }
- 
+
  .flexFooter {
      display: flex;
      flex-direction: row
