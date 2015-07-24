@@ -1,5 +1,4 @@
 .sticky {
-  display: flex;
   position: fixed;
   background-color: #DAA520;
   width: 100%;
@@ -10,9 +9,13 @@
 .flexHeader {
   display: flex;
   justify-content: flex-end;
+  margin-right: 1rem;
   align-items: center;
 }
 
+nav li {
+  display: inline-block;
+}
 
 .flexContainer {
     display: flex;
@@ -20,11 +23,14 @@
     justify-content: space-around;
  }
 
+ h2 {
+   color: white;
+ }
+ body {
+   background-color: #290052;
+ }
 article {
-  display: flex;
-  background-color: ivory;
-  border:1px solid blue;
-  border-radius:10px;
+  background-color: white;
   margin-top:1rem;
   margin-left:1rem;
   padding:1rem;
