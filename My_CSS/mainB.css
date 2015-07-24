@@ -1,4 +1,5 @@
 .sticky {
+  display: flex;
   position: fixed;
   background-color: #DAA520;
   width: 100%;
