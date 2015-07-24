@@ -1,13 +1,14 @@
 .sticky {
   position: fixed;
   background-color: #DAA520;
-  width: 100%
+  width: 100%;
+  align-items: flex-start;
   }
 
 .flexHeader {
   display: flex;
   justify-content: flex-end;
-  align-items: flex-start
+  align-items: center;
 }
 
 
