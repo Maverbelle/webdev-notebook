@@ -13,6 +13,9 @@
   align-items: center;
 }
 
+header {
+  margin-top: 0;
+}
 nav li {
   display: inline-block;
 }
